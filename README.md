@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @yemi
+- This project involved doing PI/PHI data masking on source data files 
 - 👀 I’m interested in Data OPs/Engineering
 - 🌱 I’m currently working on GCP/AWS data analytics platform
 - 💞️ I’m looking to collaborate on CLoud Data projects
