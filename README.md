@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yemi
 - This project involved doing PI/PHI data masking on source data files 
-- 👀 I’m interested in Data OPs/Engineering
-- 🌱 I’m currently working on GCP/AWS data analytics platform
+- 👀 I’m interested in Data OPs/Engineering/Data Science/Data fir finance
+- 🌱 I’m currently working on GCP/AWS/Azure/open-source data analytics platform
 - 💞️ I’m looking to collaborate on Cloud Data projects
 - 📫 How to reach me ... please email me on awolaja@outlook.com
 
